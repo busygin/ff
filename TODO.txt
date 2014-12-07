@@ -1,0 +1,2 @@
+1. Possibly, let the user select which messages to include in/exclude from the compiled headers.
+2. Adapting the code for compiling FIX 5.0. Implementing MDP 3.0 compression.

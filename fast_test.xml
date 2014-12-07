@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xmlns="http://www.fixprotocol.org/ns/fast/td/1.1">
+	<template dictionary="1" id="1" name="template1">
+		<string id="58" name="Text">
+			<default value="bebe"></default>
+		</string>
+	</template>
+
+	<template dictionary="2" id="2" name="template2">
+		<string id="58" name="Text">
+			<default value="meme"></default>
+		</string>
+	</template>
+</templates>
